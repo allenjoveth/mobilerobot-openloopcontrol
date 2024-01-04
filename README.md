@@ -99,7 +99,7 @@ if _name_ == '_main_':
 
 Insert image here
 
-![mobile_robotics](https://github.com/allenjoveth/mobilerobot-openloopcontrol/assets/139422287/7c3b0e1f-50e2-4fa7-b666-0fe097744745)
+![mobile_robotics](https://github.com/allenjoveth/mobilerobot-openloopcontrol/assets/139422287/4d0e6807-0067-4b65-b3cb-4eb05c18eb75)
 
 ![mobile_rob](https://github.com/allenjoveth/mobilerobot-openloopcontrol/assets/139422287/e3c2aa74-3e4a-4779-b5b9-d95d3a7b7ca2)
 
