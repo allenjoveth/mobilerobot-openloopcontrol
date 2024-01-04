@@ -99,14 +99,9 @@ if _name_ == '_main_':
 
 Insert image here
 
-![293211591-d4d248e0-aa60-40ed-8c2e-c5e13672c0d4](https://github.com/veerargavanv27/mobilerobot-openloopcontrol/assets/138955645/b6102002-ae51-4460-b02f-4a21fc9575c1)
-
 ![mobile_robotics](https://github.com/allenjoveth/mobilerobot-openloopcontrol/assets/139422287/7c3b0e1f-50e2-4fa7-b666-0fe097744745)
 
-![mobile_robotics](https://github.com/allenjoveth/mobilerobot-openloopcontrol/assets/139422287/21e8fdaf-2354-4bdd-ba2c-1cd148928871)
-
-
-
+![mobile_rob](https://github.com/allenjoveth/mobilerobot-openloopcontrol/assets/139422287/e3c2aa74-3e4a-4779-b5b9-d95d3a7b7ca2)
 
 ## MobileRobot Movement Video:
 
