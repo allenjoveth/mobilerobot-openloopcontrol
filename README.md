@@ -103,7 +103,8 @@ Insert image here
 
 ![mobile_robotics](https://github.com/allenjoveth/mobilerobot-openloopcontrol/assets/139422287/7c3b0e1f-50e2-4fa7-b666-0fe097744745)
 
-![mobile_rob](https://github.com/allenjoveth/mobilerobot-openloopcontrol/assets/139422287/a4331f55-5666-4286-9682-c7f85e464dec)
+![mobile_robotics](https://github.com/allenjoveth/mobilerobot-openloopcontrol/assets/139422287/21e8fdaf-2354-4bdd-ba2c-1cd148928871)
+
 
 
 
